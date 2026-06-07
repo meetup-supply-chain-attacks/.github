@@ -2,7 +2,7 @@
 
 Support de présentation : [Meetup-supply-chain-attacks.pptx](./docs/Meetup-supply-chain-attacks.pptx)
 
-Dependency confuion:
+Dependency confusion:
 * [01_dependency-confusion](https://github.com/meetup-supply-chain-attacks/01_dependency-confusion)
 
 Pwn request:
