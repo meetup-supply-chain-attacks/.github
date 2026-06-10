@@ -12,7 +12,7 @@ Pwn request:
 Code injection:
 * [03_pr-injection](https://github.com/meetup-supply-chain-attacks/03_pr-injection)
 
-# Taxonomie des attaques de la chaîne d'approvisionnement logicielle
+# (§ généré IA) Taxonomie des attaques de la chaîne d'approvisionnement logicielle
 
 > **Légende**
 > - 🟢 `your project` — couvert par le module 03 (dependency confusion + postinstall)
